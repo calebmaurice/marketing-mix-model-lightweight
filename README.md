@@ -40,7 +40,7 @@ Normalization Period: The first 104 rows were removed to allow the simulator tim
 
 This final dataset captures a balanced media budget allocation across traditional media, social media, search engine marketing (SEM), programmatic display advertising, direct mail, digital out-of-home (DOOH), and billboards.
 
-** Media Variables Used:**
+**Media Variables Used:**
 
 The dataset includes the following media variables:
 
