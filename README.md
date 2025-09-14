@@ -7,7 +7,7 @@ Scalable Bayesian MMM using Google's LightweightMMM framework to measure media e
 
 ### **Optimization Results: 6.3% Brand Sales Improvement Through Strategic Budget Reallocation**
 
-The media mix optimization analysis reveals a meaningful opportunity to improve performance by reallocating budget across channels. The model simulation predicts a 6.28% increase in target variable through strategic shifts. 
+The media mix optimization analysis reveals a meaningful opportunity to improve performance by reallocating budget across channels. The model simulation predicts a 6.28% increase in target variable through strategic budget reallocation. 
 ### Key Budget Reallocation Recommendations
 
 #### Increase Investment:
