@@ -48,7 +48,11 @@ Normalization Period: The first 104 rows were removed to allow the simulator tim
 
 This final dataset captures a balanced media budget allocation across traditional media, social media, search engine marketing (SEM), programmatic display advertising, direct mail, digital out-of-home (DOOH), and billboards.
 
-**Media Variables Used:**
+**Target Variable:**
+
+This metric tracks brand sales volume as the primary key performance indicator for measuring business success.
+
+**Media Variables**
 
 The dataset includes the following media variables:
 
@@ -61,21 +65,9 @@ The dataset includes the following media variables:
 *   dsp_dooh
 *   dsp_billboard
 
-**Holiday Variables Used:**
+**Control Variables:**
 
-Merge weekly records with Canadian national holidays across the 52 weeks of the year. The holidays included are:
-
-* New Year's Day (Week 1)
-* Family Day (Week 7)
-* Good Friday (Week 14)
-* Victoria Day (Week 20)
-* Canada Day (Week 26)
-* Civic Holiday (Week 31)
-* Labour Day (Week 36)
-* Thanksgiving (Week 40)
-* Remembrance Day (Week 45)
-* Christmas Day (Week 51)
-* Boxing Day (Week 51)
+Merge weekly records with Canadian national holidays across the 52 weeks of the year. The holidays included are New Year’s Day (Week 1), Family Day (Week 7), Good Friday (Week 14), Victoria Day (Week 20), Canada Day (Week 26), Civic Holiday (Week 31), Labour Day (Week 36), Thanksgiving (Week 40), Remembrance Day (Week 45), Christmas Day (Week 51), and Boxing Day (Week 51).
 
 **References**
 
