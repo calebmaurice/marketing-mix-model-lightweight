@@ -28,6 +28,10 @@ The 6.3% performance lift represents meaningful incremental value with minimal r
 
 <img width="2421" height="885" alt="Unknown" src="https://github.com/user-attachments/assets/3c6c95e0-a19b-4b0f-9c68-51521cfe59a6" />
 
+Strong Brand Equity Foundation (blue): The substantial blue baseline contribution demonstrates robust organic demand, indicating strong existing brand equity that provides a solid foundation for paid media amplification.
+
+TV's Sharp Impact(gold): The sharp spikes in TV contribution clearly correspond to campaign flights, showing TV's ability to create immediate, measurable lift above baseline. These spikes demonstrate TV's power for driving short-term activation while the broader seasonal curve shows sustained impact.
+
 ## Project Overview
 
 Marketing Mix Modeling (MMM) has become an essential tool for understanding the incremental impact of marketing channels on business outcomes, enabling data-driven budget allocation and strategic decision-making. For this analysis, I implemented a Bayesian MMM approach using Google's LightweightMMM framework [1], leveraging the comprehensive API documentation provided in the repository [2]. The model provides a scalable and interpretable solution for measuring media effectiveness and optimizing marketing investments. 
