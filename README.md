@@ -11,14 +11,14 @@ The media mix optimization analysis reveals a meaningful opportunity to improve 
 <img width="2984" height="984" alt="MMM-Optimal-Budget-Simulation" src="https://github.com/user-attachments/assets/7b72d2c6-f5d9-4d31-ad49-71039d743477" />
 
 #### Increase Investment:
-* TV: +2% budget increase (maintaining dominance as top performer)
-* Direct Mail: +1% budget boost to capitalize on proven mid-tier performance
+* TV: +5% budget increase (maintaining dominance as top performer)
+* Direct Mail & Digital Out of Home: +1% budget boost to capitalize on proven mid-tier performance
 
 #### Decrease Investment:
 
 * Online Video: -3% reduction (17% → 14%) despite strong historical performance
 * Social Media: -2% reduction, suggesting saturation at current spend levels
-* Digital Out of Home & Billboard: Minor adjustments reflecting optimization at the margins
+* SEM, Billboard, Online Display: Minor adjustments reflecting optimization at the margins.
 
 
 ## Business Impact
