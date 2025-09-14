@@ -8,6 +8,8 @@ Scalable Bayesian MMM using Google's LightweightMMM framework in Python to measu
 The media mix optimization analysis reveals a meaningful opportunity to improve performance by reallocating budget across channels. The model simulation predicts a 6.28% increase in target variable through strategic budget reallocation. 
 ### Key Budget Reallocation Recommendations
 
+<img width="2984" height="984" alt="MMM-Optimal-Budget-Simulation" src="https://github.com/user-attachments/assets/7b72d2c6-f5d9-4d31-ad49-71039d743477" />
+
 #### Increase Investment:
 * TV: +2% budget increase (maintaining dominance as top performer)
 * Direct Mail: +1% budget boost to capitalize on proven mid-tier performance
@@ -24,9 +26,7 @@ This is expected to result in 1,496,524 more brand sales over two years, from 22
 
 The 6.3% performance lift represents meaningful incremental value with minimal risk, as all changes stay within ±20% bounds of historical spending patterns. This conservative optimization approach ensures implementable recommendations while capturing measurable improvement opportunities across the media portfolio.
 
-<img width="2984" height="984" alt="MMM-Optimal-Budget-Simulation" src="https://github.com/user-attachments/assets/7b72d2c6-f5d9-4d31-ad49-71039d743477" />
 <img width="2421" height="885" alt="Unknown" src="https://github.com/user-attachments/assets/3c6c95e0-a19b-4b0f-9c68-51521cfe59a6" />
-
 
 ## Project Overview
 
