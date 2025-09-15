@@ -32,6 +32,15 @@ Strong Brand Equity Foundation (blue): The substantial blue baseline contributio
 
 TV's Sharp Impact(gold): The sharp spikes in TV contribution clearly correspond to campaign flights, showing TV's ability to create immediate, measurable lift above baseline. These spikes demonstrate TV's power for driving short-term activation while the broader seasonal curve shows sustained impact.
 
+## Model Fit
+<img width="553" height="440" alt="Unknown-1" src="https://github.com/user-attachments/assets/7de190ba-1f86-414f-9df1-990ce863c5fa" />
+
+These outcomes of the model fit suggest that the model is performing well overall, with strong predictive power and relatively low error. However, the the rigid nature of the simulated data
+* An R-squared of 0.913 indicates a strong fit, suggesting that the model is able to predict the KPI very accurately, leaving only a small portion of the variability unexplained
+* While the model's predictions are generally accurate, there is still an average error of roughly 9.17% between the predicted and true KPIs.
+The strong fit could represent genuine model quality, however I think this is unlikely given this dataset likely has more predictable patterns than real-world data.
+
+
 ## Project Overview
 
 Marketing Mix Modeling (MMM) has become an essential tool for understanding the incremental impact of marketing channels on business outcomes, enabling data-driven budget allocation and strategic decision-making. For this analysis, I implemented a Bayesian MMM approach using Google's LightweightMMM framework [1], leveraging the comprehensive API documentation provided in the repository [2]. The model provides a scalable and interpretable solution for measuring media effectiveness and optimizing marketing investments. 
