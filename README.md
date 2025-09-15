@@ -1,5 +1,7 @@
 # Marketing Mix Model
-Scalable Bayesian MMM using Google's LightweightMMM framework in Python to measure media effectiveness &amp; optimize marketing ROI. Built on AMASS-simulated realistic marketing data, delivering interpretable insights for strategic budget allocation decisions across channels.
+Marketing Mix Modeling (MMM) has become a crucial tool for understanding the incremental impact of various marketing channels on business outcomes, facilitating data-driven budget allocation and strategic decision-making. In the coming years, consumer privacy laws such as the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) are expected to expand across North America, which will limit the availability of data and degrade the effectiveness of performance-based measurement methodologies. MMMs enable business leaders to preserve user privacy while measuring marketing impact, optimizing budgets, and connecting marketing spend to real sales, even without cookies.
+
+This analysis represents a foundational implementation of Google’s LightweightMMM framework using simulated data. While the underlying Bayesian approach remains robust, readers should note that this model reflects techniques and data structures from 2022 and serves as a methodological reference point. For production implementations, consider utilizing the latest models and methodologies.
 
 # Executive Summary
 
